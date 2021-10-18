@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MortgageApplication</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Mortgage Calculator</string>
+    <string name="next">CALCULATE</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+</resources>
